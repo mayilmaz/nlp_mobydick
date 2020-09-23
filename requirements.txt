@@ -1,0 +1,4 @@
+- requests
+- nltk
+- bs4
+- collections
